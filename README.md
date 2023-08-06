@@ -17,9 +17,9 @@ Also, download the [SecLists repository](https://github.com/danielmiessler/SecLi
 
 After cloning or downloading the script, navigate to its directory and set the appropriate permissions:
 
-\```bash
+```bash
 chmod +x sde_hunting.sh
-\```
+```
 
 Now, you can run the script as mentioned in the usage section.
 
